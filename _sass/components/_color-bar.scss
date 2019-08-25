@@ -1,0 +1,4 @@
+.color-bar {
+  @include stripes($sdg-colors, to right);
+  height: 8px;
+}

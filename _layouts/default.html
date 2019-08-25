@@ -4,12 +4,13 @@
 {% include head.html %}
 
 <body>
-
   {% comment not needed %}
     {% include analytics.html %}
   {% endcomment %}
 
   <div class='js-off-canvas-container c-off-canvas-container'>
+    {% include color-bar.html %}
+
     {% comment not needed %}
       {% include header.html %}
     {% endcomment %}
@@ -19,6 +20,8 @@
     {% comment %}
       {% include footer.html %}
     {% endcomment %}
+
+    {% include color-bar.html %}
   </div>
 
   {% comment not needed %}
