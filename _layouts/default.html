@@ -5,20 +5,28 @@
 
 <body>
 
-  {% include analytics.html %}
+  {% comment not needed %}
+    {% include analytics.html %}
+  {% endcomment %}
 
   <div class='js-off-canvas-container c-off-canvas-container'>
-    {% include header.html %}
+    {% comment not needed %}
+      {% include header.html %}
+    {% endcomment %}
 
     {{ content }}
 
-    {% include footer.html %}
+    {% comment %}
+      {% include footer.html %}
+    {% endcomment %}
   </div>
 
-  <script src="{{ '/js/jquery-3.1.1.min.js' | prepend: site.baseurl }}"> </script>
-  <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
-  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
-  <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
+  {% comment not needed %}
+    <script src="{{ '/js/jquery-3.1.1.min.js' | prepend: site.baseurl }}"> </script>
+    <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
+    <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
+    <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
+  {% endcomment %}
 </body>
 
 </html>
