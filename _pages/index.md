@@ -37,7 +37,7 @@ Alle sind eingeladen. Eine [Anmeldung][Anmelden]{:target="&#95;blank"} ist erw&u
 ![speaker](/assets/img/lydia-heilen.jpeg){:.u-left.u-circle}{:height="80" style='margin: 8px 16px 0 0;'}
 
 {: style="margin-left: 100px;"}
-17 Ziele, Bedeutung von Informatik und Technik f&uuml;r die 17 Ziele, Nutzen der Milleniumsziele, Erfolgsmessung  
+17 Ziele, Bedeutung von Informatik und Technik f&uuml;r die 17 Ziele, Nutzen der Millenniumsziele, Erfolgsmessung  
 *&mdash; Lydia Heilen, Global Marshall Plan*
 
 </div>
@@ -53,7 +53,7 @@ Alle sind eingeladen. Eine [Anmeldung][Anmelden]{:target="&#95;blank"} ist erw&u
 {: style="margin-left: 100px;"}
 Wie organisieren wir uns, um die SDGs zu erreichen? Welche neuen Organisationsformen gibt es?
 Welchen Beitrag k&ouml;nnen sie leisten? Wie erg&auml;nzen sie bestehende Unternehmen/Organisationen?  
-*&mdash; Dr. Ali G&uuml;m&uuml;say, Uni Hamburg*
+*&mdash; Dr. Ali G&uuml;m&uuml;say, Universit&auml;t Hamburg*
 
 </div>
 
@@ -96,7 +96,7 @@ Technik und Informatik leisten einen wichtigen Beitrag zur Zielerreichung.
 [![HAW Institut für Produkt- und Produktionsmanagement](/assets/img/ipp-logo.jpg){: style='margin: auto; height: 120px;'}](https://www.haw-hamburg.de/ti-mp/ipp/){:target="&#95;blank"}
   </div>
   <div class='o-grid__col--1-3-s' markdown='1'>
-[![Förderverein Plan Aktionsgruppe Hamburg](/assets/img/plan-logo.jpeg){: style='margin: auto; height: 120px;'}](https://www.plan-aktionsgruppe-hamburg.de/){:target="&#95;blank"}
+[![Förderverein Plan Aktionsgruppe Hamburg](/assets/img/plan-logo.png){: style='margin: auto; height: 120px;'}](https://www.plan-aktionsgruppe-hamburg.de/){:target="&#95;blank"}
   </div>
   <div class='o-grid__col--1-3-s' markdown='1'>
 [![Global Marshall Plan](/assets/img/gmp-logo.png){: style='margin: auto; height: 120px;'}](https://www.globalmarshallplan.org/){:target="&#95;blank"}
