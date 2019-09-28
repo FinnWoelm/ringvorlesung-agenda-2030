@@ -4,4 +4,26 @@
 
 .u-no-margin  {
   margin: 0 !important;
+
+  &-bottom {
+    margin-bottom: 0 !important;
+  }
+
+  @include mq($until: tablet) {
+    &-s {
+      margin: 0 !important;
+    }
+  }
+
+  @include mq($from: tablet, $until: desktop) {
+    &-m {
+      margin: 0 !important;
+    }
+  }
+
+  @include mq($from: desktop) {
+    &-l {
+      margin: 0 !important;
+    }
+  }
 }

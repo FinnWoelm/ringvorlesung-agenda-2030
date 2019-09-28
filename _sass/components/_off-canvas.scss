@@ -68,7 +68,9 @@ $off-canvas-width: 300px;
 
 html,
 body {
-  overflow-x: hidden;
+  //overflow-x: hidden;
+  // Allow overflow
+  overflow-x: auto;
 }
 
 .c-off-canvas-content {
@@ -100,4 +102,3 @@ body {
     }
   }
 }
-

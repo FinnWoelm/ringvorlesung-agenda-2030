@@ -7,6 +7,24 @@
  */
 .u-hidden {
   display: none;
+
+  @include mq($until: tablet) {
+    &-s {
+      display: none;
+    }
+  }
+
+  @include mq($from: tablet, $until: desktop) {
+    &-m {
+      display: none;
+    }
+  }
+
+  @include mq($from: desktop) {
+    &-l {
+      display: none;
+    }
+  }
 }
 
 /**

@@ -33,12 +33,18 @@ Alle sind eingeladen. Eine [Anmeldung][Anmelden]{:target="&#95;blank"} ist erw&u
 {:.u-no-margin}
 ### Impuls 1: 17 Ziele auch f&uuml;r Ingenieur\*innen
 
-{:.u-no-margin}
+{:.u-no-margin.u-hidden-s}
 ![speaker](/assets/img/lydia-heilen.jpeg){:.u-left.u-circle}{:height="80" style='margin: 8px 16px 0 0;'}
 
-{: style="margin-left: 100px;"}
-17 Ziele, Bedeutung von Informatik und Technik f&uuml;r die 17 Ziele, Nutzen der Millenniumsziele, Erfolgsmessung  
+{:.u-no-margin-bottom.u-no-margin-s style="margin-left: 100px;"}
+17 Ziele, Bedeutung von Informatik und Technik f&uuml;r die 17 Ziele, Nutzen der Millenniumsziele, Erfolgsmessung
+
+{:.u-no-margin.u-right.u-hidden-m.u-hidden-l}
+![speaker](/assets/img/lydia-heilen.jpeg){:.u-circle}{:height="80"}
+
+{:.u-no-margin-s.u-clearfix style="margin-left: 100px;"}
 *&mdash; Lydia Heilen, Global Marshall Plan*
+
 
 </div>
 
@@ -47,12 +53,17 @@ Alle sind eingeladen. Eine [Anmeldung][Anmelden]{:target="&#95;blank"} ist erw&u
 {:.u-no-margin}
 ### Impuls 2: Neues Denken braucht neue R&auml;ume
 
-{:.u-no-margin}
+{:.u-no-margin.u-hidden-s}
 ![speaker](/assets/img/ali-guemuesay.jpeg){:.u-left.u-circle}{:height="80" style='margin: 8px 16px 0 0;'}
 
-{: style="margin-left: 100px;"}
+{:.u-no-margin-bottom.u-no-margin-s style="margin-left: 100px;"}
 Wie organisieren wir uns, um die SDGs zu erreichen? Welche neuen Organisationsformen gibt es?
-Welchen Beitrag k&ouml;nnen sie leisten? Wie erg&auml;nzen sie bestehende Unternehmen/Organisationen?  
+Welchen Beitrag k&ouml;nnen sie leisten? Wie erg&auml;nzen sie bestehende Unternehmen/Organisationen?
+
+{:.u-no-margin.u-right.u-hidden-m.u-hidden-l}
+![speaker](/assets/img/ali-guemuesay.jpeg){:.u-circle}{:height="80"}
+
+{:.u-no-margin-s.u-clearfix style="margin-left: 100px;"}
 *&mdash; Dr. Ali G&uuml;m&uuml;say, Universit&auml;t Hamburg*
 
 </div>
@@ -62,12 +73,17 @@ Welchen Beitrag k&ouml;nnen sie leisten? Wie erg&auml;nzen sie bestehende Untern
 {:.u-no-margin}
 ### Impuls 3: Mit KI die 17 Ziele quantifizieren
 
-{:.u-no-margin}
+{:.u-no-margin.u-hidden-s}
 ![speaker](/assets/img/patrick-helber.jpeg){:.u-left.u-circle}{:height="80" style='margin: 8px 16px 0 0;'}
 
-{: style="margin-left: 100px;"}
+{:.u-no-margin-bottom.u-no-margin-s style="margin-left: 100px;"}
 Messen der SDGs mittels KI & Satellitenbildern: Beispiel Landnutzung (human settlements & urban
-vegetation), Erfolge, Herausforderungen, weitere Projekte  
+vegetation), Erfolge, Herausforderungen, weitere Projekte
+
+{:.u-no-margin.u-right.u-hidden-m.u-hidden-l}
+![speaker](/assets/img/patrick-helber.jpeg){:.u-circle}{:height="80"}
+
+{:.u-no-margin-s.u-clearfix style="margin-left: 100px;"}
 *&mdash; Patrick Helber, DFKI & Vision Impulse (angefragt)*
 
 </div>
@@ -92,14 +108,14 @@ Technik und Informatik leisten einen wichtigen Beitrag zur Zielerreichung.
 ## Partner
 
 <div class='o-grid' style='margin-bottom: 32px;'>
-  <div class='o-grid__col--1-3-s' markdown='1'>
-[![HAW Institut für Produkt- und Produktionsmanagement](/assets/img/ipp-logo.jpg){: style='margin: auto; height: 120px;'}](https://www.haw-hamburg.de/ti-mp/ipp/){:target="&#95;blank"}
+  <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
+[![HAW Institut für Produkt- und Produktionsmanagement](/assets/img/ipp-logo.jpg){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.haw-hamburg.de/ti-mp/ipp/){:target="&#95;blank"}
   </div>
-  <div class='o-grid__col--1-3-s' markdown='1'>
-[![Förderverein Plan Aktionsgruppe Hamburg](/assets/img/plan-logo.png){: style='margin: auto; height: 120px;'}](https://www.plan-aktionsgruppe-hamburg.de/){:target="&#95;blank"}
+  <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
+[![Förderverein Plan Aktionsgruppe Hamburg](/assets/img/plan-logo.png){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.plan-aktionsgruppe-hamburg.de/){:target="&#95;blank"}
   </div>
-  <div class='o-grid__col--1-3-s' markdown='1'>
-[![Global Marshall Plan](/assets/img/gmp-logo.png){: style='margin: auto; height: 120px;'}](https://www.globalmarshallplan.org/){:target="&#95;blank"}
+  <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
+[![Global Marshall Plan](/assets/img/gmp-logo.png){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.globalmarshallplan.org/){:target="&#95;blank"}
   </div>
 </div>
 
