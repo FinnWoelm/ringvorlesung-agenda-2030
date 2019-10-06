@@ -102,7 +102,7 @@ Networking, Diskussion und Konkretisierung
 
 ## Was ist die Agenda 2030?
 
-Die 17 Ziele f&uuml;r nachhaltige Entwicklung sind Zielsetzungen der Vereinten Nationen (UN), die die Sicherung einer nachhaltigen Entwicklung auf &ouml;konomischer, sozialer sowie &ouml;kologischer Ebene beinhalten. Die SDGs traten 1. Januar 2016 in Kraft und gelten bis 2030. Sie sind von allen UN-Mitgliedern ratifiziert. Die Ziele sind [hier einsehbar](https://sustainabledevelopment.un.org/sdgs){:target="&#95;blank"}.
+Die 17 Ziele f&uuml;r nachhaltige Entwicklung sind Zielsetzungen der Vereinten Nationen (UN), die die Sicherung einer nachhaltigen Entwicklung auf &ouml;konomischer, sozialer sowie &ouml;kologischer Ebene beinhalten. Die SDGs traten am 1. Januar 2016 in Kraft und gelten bis 2030. Sie sind von allen UN-Mitgliedern ratifiziert. Die Ziele sind [hier einsehbar](https://sustainabledevelopment.un.org/sdgs){:target="&#95;blank"}.
 
 ## Partner
 
