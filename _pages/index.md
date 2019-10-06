@@ -108,6 +108,9 @@ Die 17 Ziele f&uuml;r nachhaltige Entwicklung sind Zielsetzungen der Vereinten N
 
 <div class='o-grid' style='margin-bottom: 32px;'>
   <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
+  [![Hochschule für Angewandte Wissenschaften](/assets/img/haw-logo.png){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.haw-hamburg.de/){:target="&#95;blank"}
+  </div>
+  <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
 [![HAW Institut für Produkt- und Produktionsmanagement](/assets/img/ipp-logo.jpg){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.haw-hamburg.de/ti-mp/ipp/){:target="&#95;blank"}
   </div>
   <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
