@@ -15,14 +15,14 @@ title: "17 Ziele für Ingenieur*innen"
 | HAW Hamburg, Berliner Tor 21, Raum F110  |
 
 {:.u-no-margin}
-Kein Anmeldung erforderlich
+Keine Anmeldung erforderlich
 
 
 </div>
 
 ## Werde Teil des weltweiten Projekts
 
-17 Ziele, 193 Nationen: Die 193 Mitgliedstaaten der Vereinten Nationen (UN) haben sich auf 17 Ziele f&uuml;r nachhaltige Entwicklung geeinigt. Diese Ziele sollen in 10 Jahren erreicht sein. Informatik und Technik m&uuml;ssen dazu mehr Beitr&auml;ge leisten. Zum Beispiel helfen Satellitendaten in Verbindung mit K&uuml;nstlicher Intelligenz, die Erreichung der Ziele zu &uuml;berpr&uuml;fen. Dies ist einer von drei spannenden Impulsvortr&auml;gen, die uns am 14. November erwarten. Auf dem anschlie&szlig;enden Markt der M&ouml;glichkeiten diskutieren wir Ideen und deren Konkretisierung in Form von pers&ouml;nlichen, wissenschaftlichen und studentischen Vorhaben.
+17 Ziele, 193 Nationen: Die 193 Mitgliedstaaten der Vereinten Nationen (UN) haben sich auf 17 Ziele f&uuml;r nachhaltige Entwicklung geeinigt. Diese Ziele sollen in 10 Jahren erreicht sein. Informatik und Technik wollen dazu mehr Beitr&auml;ge leisten. Zum Beispiel helfen Satellitendaten in Verbindung mit K&uuml;nstlicher Intelligenz, die Erreichung der Ziele zu &uuml;berpr&uuml;fen. Dies ist einer von drei spannenden Impulsvortr&auml;gen, die uns am 14. November erwarten. Auf dem anschlie&szlig;enden Markt der M&ouml;glichkeiten diskutieren wir Ideen und deren Konkretisierung in Form von pers&ouml;nlichen, wissenschaftlichen und studentischen Vorhaben.
 
 Alle sind eingeladen. Eine Anmeldung ist nicht erforderlich.
 
