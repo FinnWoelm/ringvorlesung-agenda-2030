@@ -119,8 +119,12 @@ Mit der Agenda 2030 für nachhaltige Entwicklung dr&uuml;ckt die internationale 
   <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
 [![Global Marshall Plan](/assets/img/gmp-logo.png){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.globalmarshallplan.org/){:target="&#95;blank"}
   </div>
+  <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
+[![Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung](/assets/img/BMZ-logo.gif){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.bmz.de/de/index.html){:target="&#95;blank"}
+  </div>
 </div>
 
+Gef&ouml;rdert durch Engagement Global mit Mitteln des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung.
 
 
 ## Kontakt
