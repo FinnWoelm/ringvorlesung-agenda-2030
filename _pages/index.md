@@ -1,104 +1,82 @@
 ---
 layout: page
-title: "17 Ziele für Ingenieur*innen"
+title: "Ringvorlesung: Nachhaltige Produkte und Produktion"
+events:
+  - title: "Der Handabdruck: Ein Ansatz zur Messung positiver Nachhaltigkeitswirkungen von Produkten"
+    description: Beschreibung folgt...
+    day: 25
+    month: März
+    type: next
+    speakers:
+      - Samanthi Silva (Karlsruher Institut für Technologie)
+      - Anna Usbek (angefragt)
+  - title: "Gerechtigkeit in globalen Lieferketten"
+    description: Beschreibung folgt...
+    day: 1
+    month: April
+    type: future
+    speakers:
+      - Corporate Digital Responsibility – Hubertus Drinkuth (Systain, Otto Group)
+      - Tobias Held (angefragt)
+  - title: "Offen"
+    description: Beschreibung folgt...
+    day: 22
+    month: April
+    type: future
+  - title: "Faire Elektronik"
+    description: Beschreibung folgt...
+    day: 29
+    month: April
+    type: future
+    speakers:
+      - Verena Kaiser (Nager IT)
+      - Sebastian Jekutsch (FairLötet e.V.)
+  - title: "Innovative Baustoffe gegen den Klimawandel"
+    description: Beschreibung folgt...
+    day: 6
+    month: Mai
+    type: future
+    speakers:
+      - Allison Dring (Made of Air)
+  - title: "Nachhaltigkeit in anderen Ländern"
+    description: Beschreibung folgt...
+    day: 13
+    month: Mai
+    type: future
+    speakers:
+      - n.n. (Partnerhochschulen der HAW)
+  - title: "Der SDG-Index: Spillover Effekte"
+    description: Beschreibung folgt...
+    day: 27
+    month: Mai
+    type: future
+    speakers:
+      - Finn Wölm (SDSN Paris)
 ---
 
 ![logo](https://sdg-events.de/static/sdg-logo.png){:height="100px"}
 
-# 17 Ziele f&uuml;r Ingenieur\*innen
-
-<div class='highlight-box u-inline-block' markdown='1'>
-
-| --------------   |
-| Donnerstag, 14. November 2019     |
-| 18 Uhr c.t. bis ca. 21 Uhr         |
-| HAW Hamburg, Berliner Tor 21, Raum F110  |
-
 {:.u-no-margin}
-Keine Anmeldung erforderlich
+# Nachhaltige Produkte und Produktion
+## Öffentliche Ringvorlesung
 
+Um das Wohlergehen heutiger und zukünftiger Generationen zu gewährleisten, ist es unbedingt erforderlich, dass wir die Art und Weise ändern, in der unsere Gesellschaft Waren produziert und konsumiert. Die mit dieser Verschiebung verbundenen technologischen Herausforderungen stehen im Mittelpunkt dieser öffentlichen Vorlesungsreihe: Welche Beiträge können Technologie, Ingenieurwesen und Informatik zu nachhaltigen Produkten, Konsum und größerer Transparenz und Ethik der globalen Lieferketten leisten?
 
-</div>
+## Nächster Termin
 
-## Werde Teil des weltweiten Projekts
+{% assign next_events = page.events | where: "type", "next" %}
 
-17 Ziele, 193 Nationen: Die Vereinten Nationen (UN) haben sich auf 17 Ziele f&uuml;r nachhaltige Entwicklung geeinigt. Diese Ziele sollen in 10 Jahren erreicht sein. Informatik und Technik wollen dazu mehr Beitr&auml;ge leisten. Zum Beispiel helfen Satellitendaten in Verbindung mit K&uuml;nstlicher Intelligenz, die Erreichung der Ziele zu &uuml;berpr&uuml;fen. Dies ist einer von drei spannenden Impulsvortr&auml;gen, die uns am 14. November erwarten. Auf dem anschlie&szlig;enden Markt der M&ouml;glichkeiten diskutieren wir Ideen und deren Konkretisierung in Form von pers&ouml;nlichen, wissenschaftlichen und studentischen Vorhaben.
+{% for event in next_events %}
+  {% include event.md event=event %}
+{% endfor %}
 
-Alle sind eingeladen. Eine Anmeldung ist nicht erforderlich.
+## Weitere Termine
 
-## Ablauf
+{% assign future_events = page.events | where: "type", "future" %}
 
-<div class='highlight-box u-block' markdown='1'>
-
-{:.u-no-margin}
-### Impuls 1: 17 Ziele auch f&uuml;r Ingenieur\*innen
-
-{:.u-no-margin.u-hidden-s}
-![speaker](/assets/img/lydia-heilen.jpeg){:.u-left.u-circle}{:height="80" style='margin: 8px 16px 0 0;'}
-
-{:.u-no-margin-bottom.u-no-margin-s style="margin-left: 100px;"}
-17 Ziele (Sustainable Development Goals), Bedeutung von Informatik und Technik f&uuml;r die 17 Ziele, Wirkung der Millenniumsziele, Erfolgsmessung
-
-{:.u-no-margin.u-right.u-hidden-m.u-hidden-l}
-![speaker](/assets/img/lydia-heilen.jpeg){:.u-circle}{:height="80"}
-
-{:.u-no-margin-s.u-clearfix style="margin-left: 100px;"}
-*&mdash; Lydia Heilen, Global Marshall Plan / Leibniz Universit&auml;t Hannover*
-
-
-</div>
-
-<div class='highlight-box u-block' markdown='1'>
-
-{:.u-no-margin}
-### Impuls 2: Neues Denken braucht neue R&auml;ume
-
-{:.u-no-margin.u-hidden-s}
-![speaker](/assets/img/ali-guemuesay.jpeg){:.u-left.u-circle}{:height="80" style='margin: 8px 16px 0 0;'}
-
-{:.u-no-margin-bottom.u-no-margin-s style="margin-left: 100px;"}
-Wie organisieren wir uns, um die SDGs (Sustainable Development Goals) zu erreichen? Welche neuen Organisationsformen gibt es?
-Welchen Beitrag k&ouml;nnen sie leisten? Wie erg&auml;nzen sie bestehende Unternehmen/Organisationen?
-
-{:.u-no-margin.u-right.u-hidden-m.u-hidden-l}
-![speaker](/assets/img/ali-guemuesay.jpeg){:.u-circle}{:height="80"}
-
-{:.u-no-margin-s.u-clearfix style="margin-left: 100px;"}
-*&mdash; Dr. Ali G&uuml;m&uuml;say, Universit&auml;t Hamburg*
-
-</div>
-
-<div class='highlight-box u-block' markdown='1'>
-
-{:.u-no-margin}
-### Impuls 3: Mit KI die 17 Ziele quantifizieren
-
-{:.u-no-margin.u-hidden-s}
-![speaker](/assets/img/patrick-helber.jpeg){:.u-left.u-circle}{:height="80" style='margin: 8px 16px 0 0;'}
-
-{:.u-no-margin-bottom.u-no-margin-s style="margin-left: 100px;"}
-Messen der Erreichung von SDGs mittels KI & Satellitenbildern: Beispiel Landnutzung (human settlements & urban
-vegetation), Erfolge, Herausforderungen, weitere Projekte
-
-{:.u-no-margin.u-right.u-hidden-m.u-hidden-l}
-![speaker](/assets/img/patrick-helber.jpeg){:.u-circle}{:height="80"}
-
-{:.u-no-margin-s.u-clearfix style="margin-left: 100px;"}
-*&mdash; Patrick Helber, Deutsches Forschungszentrum f&uuml;r K&uuml;nstliche Intelligenz (DFKI) & Vision Impulse*
-
-</div>
-
-<div class='highlight-box u-block' markdown='1'>
-
-{:.u-no-margin}
-### Open Space &mdash; Markt der M&ouml;glichkeiten
-
-<span class='u-font-small'>
-  Ab 20 Uhr  
-</span>
-Networking, Diskussion und Konkretisierung
-
-</div>
+{% for event in future_events %}
+  {% include event.md event=event %}
+{% endfor %}
 
 ## Was ist die Agenda 2030?
 
@@ -116,15 +94,7 @@ Mit der Agenda 2030 für nachhaltige Entwicklung dr&uuml;ckt die internationale 
   <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
 [![Förderverein Plan Aktionsgruppe Hamburg](/assets/img/plan-logo.png){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.plan-aktionsgruppe-hamburg.de/){:target="&#95;blank"}
   </div>
-  <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
-[![Global Marshall Plan](/assets/img/gmp-logo.png){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.globalmarshallplan.org/){:target="&#95;blank"}
-  </div>
-  <div class='o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l' markdown='1'>
-[![Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung](/assets/img/BMZ-logo.gif){: style='margin: auto; height: 120px; max-width: 100%;'}](https://www.bmz.de/de/index.html){:target="&#95;blank"}
-  </div>
 </div>
-
-Gef&ouml;rdert durch Engagement Global mit Mitteln des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung.
 
 
 ## Kontakt
@@ -149,6 +119,3 @@ Sustainable Devlopment Solutions Network (SDSN)
 19 Rue Berg&egrave;re  
 75009 Paris, Frankreich  
 [finn.woelm@gmail.com](mailto:finn.woelm@gmail.com){:target="&#95;blank"}
-
-
-[Anmelden]: https://docs.google.com/forms/d/e/1FAIpQLSfCdKfjHpwWHAJLL7aNiOuj44d-loaVmrbBEmBNHSg9Nj4Kcg/viewform
