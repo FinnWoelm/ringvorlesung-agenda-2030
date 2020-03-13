@@ -3,7 +3,7 @@ layout: page
 title: "Ringvorlesung: Nachhaltige Produkte und Produktion"
 ---
 
-![logo](https://sdg-events.de/static/sdg-logo.png){:height="100px"}
+![logo](/assets/img/sdg-logo.png){:height="100px"}
 
 <div markdown='1' style='background: #ffcece; border: 6px solid #8e0808; padding: 16px; border-radius: 4px; color: #8e0808;'>
 
